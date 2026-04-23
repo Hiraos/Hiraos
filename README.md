@@ -14,11 +14,11 @@ Si tu passes par-là, tu es perdu ou intéressé par mon profil, ou juste curieu
 - Créer des trucs 
 - Je n'ai plus d'idées 
 
-### Parcours d'apprentissage
+### Parcours d'apprentissage 
 
 | Domaine | Statut |
 |---|---|
-| Rien pour le moment | 
+| <a href='#'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" width="12"/></a> <ins>**Python**</ins> | En cours d'apprentissage |
 
 ### Contact
 <a href="#">
